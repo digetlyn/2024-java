@@ -7,7 +7,7 @@ import java.util.List;
 @Entity
 @Table(name = "ORDERS")
 public class Order {
-
+//ㄸ
     @Id
     @GeneratedValue
     private Long id;
