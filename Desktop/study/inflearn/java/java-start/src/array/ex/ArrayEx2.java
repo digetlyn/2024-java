@@ -1,7 +1,7 @@
 package array.ex;
 
 import java.util.Scanner;
-
+//배열의 입력과 출력ㅇㅇ
 public class ArrayEx2 {
     public static void main(String[] args) {
 
