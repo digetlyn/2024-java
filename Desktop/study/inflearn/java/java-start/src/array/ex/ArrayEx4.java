@@ -18,5 +18,6 @@ public class ArrayEx4 {
         average = (double) sum / 5;
         System.out.println("입력한 정수의 합계: " + sum);
         System.out.println("입력한 정수의 평균: " + average);
+
     }
 }
