@@ -10,7 +10,7 @@ public class ArrayEx8 {
         System.out.print("학생수를 입력하세요.");
         int studentCount = scanner.nextInt();
 
-        int[][] scores = new int[studentCount][3]; //사람수(행) 과목수(열)
+        int[][] scores = new int[studentCount][3]; //사람수(행) 과목수(열)2
         String[] subjects ={"국어","영어","수학"};
 
         for (int i = 0; i < studentCount; i++){
